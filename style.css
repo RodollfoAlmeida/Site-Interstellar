@@ -125,3 +125,15 @@ img{
     margin-right: 38%;    
     
 }
+
+@media (max-width: 600px) {   
+    .header{
+        background-image: url(20190123-banner.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: scroll;
+        width: 100%;
+        height: 300px;        
+        border-radius: 10px;      
+    }
+}
