@@ -126,7 +126,7 @@ img{
     
 }
 
-@media (max-width: 600px) {   
+@media (max-width: 1000px) {   
     .header{
         background-image: url(20190123-banner.jpg);
         background-repeat: no-repeat;
@@ -136,4 +136,21 @@ img{
         height: 300px;        
         border-radius: 10px;      
     }
+
+    .elenco{
+       display: block; 
+       float: none; 
+       width: 100%;
+    }
+
+    .sinopse{
+       display: block; 
+       float: none; 
+       width: 100%;
+    }
+    
+
+
+
+
 }
